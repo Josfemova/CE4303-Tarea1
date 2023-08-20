@@ -86,4 +86,7 @@ obj
 *.a
 nios_workspace
 build
-
+platform
+.qsys_edit
+RemoteSystemsTempFiles
+mem_init
